@@ -27,3 +27,5 @@ IRCTC website frontend using simple HTML CSS only.
 ## **Screen Shots** 
 
 ![](Website_ss.png)
+
+**Author : Heet Kumar Kothdadiya**
