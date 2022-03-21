@@ -26,3 +26,4 @@ IRCTC website frontend using simple HTML CSS only.
 
 ## **Screen Shots** 
 
+<img width="1440" alt="Screenshot 2022-03-21 at 9 16 52 PM" src="https://user-images.githubusercontent.com/78725162/159298731-65974bab-fc31-4b2b-b9cc-8ac54c27b548.png">
